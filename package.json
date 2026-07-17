@@ -1,0 +1,9 @@
+{
+  "name": "checkout-schema-test-helper",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": "./index.mjs",
+  "scripts": {
+    "postinstall": "node postinstall.mjs"
+  }
+}
